@@ -1,0 +1,7 @@
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculatorTest\bin\Debug\tripCalculatorTest.dll
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculatorTest\bin\Debug\tripCalculatorTest.pdb
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculatorTest\bin\Debug\tripCalculator.exe
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculatorTest\bin\Debug\tripCalculator.pdb
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculatorTest\obj\Debug\tripCalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculatorTest\obj\Debug\tripCalculatorTest.dll
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculatorTest\obj\Debug\tripCalculatorTest.pdb

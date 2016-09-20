@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="fefd25c3-db66-4238-9067-0115a90f9500" name="Aaron@AARON-HP 2016-09-18 06:40:52" runUser="Aaron-HP\Aaron" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="36464539-aa33-48c7-8b6d-88c60b435c89">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Aaron_AARON-HP 2016-09-18 06_40_52">
+      <DeploymentItem filename="C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\bin\Debug\tripCalculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2016-09-18T06:40:52.5574015-07:00" queuing="2016-09-18T06:40:52.6766371-07:00" start="2016-09-18T06:40:52.6923316-07:00" finish="2016-09-18T06:40:53.1530378-07:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="6" executed="6" passed="6" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestCorrectNameWorks" storage="c:\users\aaron\documents\visual studio 2010\projects\tripcalculator\tripcalculatortest\bin\debug\tripcalculatortest.dll" id="6f27d419-20f9-c965-146b-dd72865af8f0">
+      <Execution id="2b51bbf4-0026-4525-809e-9ef5c4b0d5ad" />
+      <TestMethod codeBase="C:/Users/Aaron/documents/visual studio 2010/Projects/tripCalculator/tripCalculatorTest/bin/Debug/tripCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="tripCalculatorTest.tripCalculatorTest, tripCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCorrectNameWorks" />
+    </UnitTest>
+    <UnitTest name="TestDollarAmountNameReturnsFalse" storage="c:\users\aaron\documents\visual studio 2010\projects\tripcalculator\tripcalculatortest\bin\debug\tripcalculatortest.dll" id="d551d814-3ba6-9128-98e4-49734d633a16">
+      <Execution id="6f16e30c-2212-4f2a-9719-ec2970e233e8" />
+      <TestMethod codeBase="C:/Users/Aaron/documents/visual studio 2010/Projects/tripCalculator/tripCalculatorTest/bin/Debug/tripCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="tripCalculatorTest.tripCalculatorTest, tripCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDollarAmountNameReturnsFalse" />
+    </UnitTest>
+    <UnitTest name="TestIncorrectSpellingReturnsFalse" storage="c:\users\aaron\documents\visual studio 2010\projects\tripcalculator\tripcalculatortest\bin\debug\tripcalculatortest.dll" id="41d4b1fd-5db9-4984-0a52-230f88bb479f">
+      <Execution id="ca72f7b8-1501-4263-8b8c-efae042193aa" />
+      <TestMethod codeBase="C:/Users/Aaron/documents/visual studio 2010/Projects/tripCalculator/tripCalculatorTest/bin/Debug/tripCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="tripCalculatorTest.tripCalculatorTest, tripCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestIncorrectSpellingReturnsFalse" />
+    </UnitTest>
+    <UnitTest name="TestDollarAmountBlankReturnsFalse" storage="c:\users\aaron\documents\visual studio 2010\projects\tripcalculator\tripcalculatortest\bin\debug\tripcalculatortest.dll" id="188cb59a-fb5c-a7e4-d23a-ef8a757c8248">
+      <Execution id="ed371ad3-a4d4-4a13-893a-3378940b4d7a" />
+      <TestMethod codeBase="C:/Users/Aaron/documents/visual studio 2010/Projects/tripCalculator/tripCalculatorTest/bin/Debug/tripCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="tripCalculatorTest.tripCalculatorTest, tripCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDollarAmountBlankReturnsFalse" />
+    </UnitTest>
+    <UnitTest name="TestBlankNameReturnsFalse" storage="c:\users\aaron\documents\visual studio 2010\projects\tripcalculator\tripcalculatortest\bin\debug\tripcalculatortest.dll" id="bd9a4a21-da79-584b-dca9-c78ee84d8e19">
+      <Execution id="50cf89d1-43d3-4524-90f2-7c30b530d6ea" />
+      <TestMethod codeBase="C:/Users/Aaron/documents/visual studio 2010/Projects/tripCalculator/tripCalculatorTest/bin/Debug/tripCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="tripCalculatorTest.tripCalculatorTest, tripCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestBlankNameReturnsFalse" />
+    </UnitTest>
+    <UnitTest name="TestNameWithNumbersReturnsFalse" storage="c:\users\aaron\documents\visual studio 2010\projects\tripcalculator\tripcalculatortest\bin\debug\tripcalculatortest.dll" id="a46b5d79-db81-eb2b-e033-f652d3c531da">
+      <Execution id="f008725d-50f0-4886-a6b1-34dae056143a" />
+      <TestMethod codeBase="C:/Users/Aaron/documents/visual studio 2010/Projects/tripCalculator/tripCalculatorTest/bin/Debug/tripCalculatorTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="tripCalculatorTest.tripCalculatorTest, tripCalculatorTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestNameWithNumbersReturnsFalse" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="188cb59a-fb5c-a7e4-d23a-ef8a757c8248" executionId="ed371ad3-a4d4-4a13-893a-3378940b4d7a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41d4b1fd-5db9-4984-0a52-230f88bb479f" executionId="ca72f7b8-1501-4263-8b8c-efae042193aa" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f27d419-20f9-c965-146b-dd72865af8f0" executionId="2b51bbf4-0026-4525-809e-9ef5c4b0d5ad" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a46b5d79-db81-eb2b-e033-f652d3c531da" executionId="f008725d-50f0-4886-a6b1-34dae056143a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bd9a4a21-da79-584b-dca9-c78ee84d8e19" executionId="50cf89d1-43d3-4524-90f2-7c30b530d6ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d551d814-3ba6-9128-98e4-49734d633a16" executionId="6f16e30c-2212-4f2a-9719-ec2970e233e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ed371ad3-a4d4-4a13-893a-3378940b4d7a" testId="188cb59a-fb5c-a7e4-d23a-ef8a757c8248" testName="TestDollarAmountBlankReturnsFalse" computerName="AARON-HP" duration="00:00:00.0265220" startTime="2016-09-18T06:40:52.6923316-07:00" endTime="2016-09-18T06:40:53.0436605-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ed371ad3-a4d4-4a13-893a-3378940b4d7a">
+    </UnitTestResult>
+    <UnitTestResult executionId="ca72f7b8-1501-4263-8b8c-efae042193aa" testId="41d4b1fd-5db9-4984-0a52-230f88bb479f" testName="TestIncorrectSpellingReturnsFalse" computerName="AARON-HP" duration="00:00:00.0004076" startTime="2016-09-18T06:40:53.0592857-07:00" endTime="2016-09-18T06:40:53.0592857-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca72f7b8-1501-4263-8b8c-efae042193aa">
+    </UnitTestResult>
+    <UnitTestResult executionId="2b51bbf4-0026-4525-809e-9ef5c4b0d5ad" testId="6f27d419-20f9-c965-146b-dd72865af8f0" testName="TestCorrectNameWorks" computerName="AARON-HP" duration="00:00:00.0003002" startTime="2016-09-18T06:40:53.0749112-07:00" endTime="2016-09-18T06:40:53.0749112-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2b51bbf4-0026-4525-809e-9ef5c4b0d5ad">
+    </UnitTestResult>
+    <UnitTestResult executionId="f008725d-50f0-4886-a6b1-34dae056143a" testId="a46b5d79-db81-eb2b-e033-f652d3c531da" testName="TestNameWithNumbersReturnsFalse" computerName="AARON-HP" duration="00:00:00.0003742" startTime="2016-09-18T06:40:53.0749112-07:00" endTime="2016-09-18T06:40:53.0905368-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f008725d-50f0-4886-a6b1-34dae056143a">
+    </UnitTestResult>
+    <UnitTestResult executionId="50cf89d1-43d3-4524-90f2-7c30b530d6ea" testId="bd9a4a21-da79-584b-dca9-c78ee84d8e19" testName="TestBlankNameReturnsFalse" computerName="AARON-HP" duration="00:00:00.0003704" startTime="2016-09-18T06:40:53.0905368-07:00" endTime="2016-09-18T06:40:53.0905368-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="50cf89d1-43d3-4524-90f2-7c30b530d6ea">
+    </UnitTestResult>
+    <UnitTestResult executionId="6f16e30c-2212-4f2a-9719-ec2970e233e8" testId="d551d814-3ba6-9128-98e4-49734d633a16" testName="TestDollarAmountNameReturnsFalse" computerName="AARON-HP" duration="00:00:00.0002951" startTime="2016-09-18T06:40:53.1061632-07:00" endTime="2016-09-18T06:40:53.1061632-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6f16e30c-2212-4f2a-9719-ec2970e233e8">
+    </UnitTestResult>
+  </Results>
+</TestRun>

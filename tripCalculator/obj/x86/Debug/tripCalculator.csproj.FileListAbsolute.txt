@@ -1,0 +1,12 @@
+c:\users\aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\bin\Debug\tripCalculator.exe
+c:\users\aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\bin\Debug\tripCalculator.pdb
+c:\users\aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\obj\x86\Debug\tripCalculator.Form1.resources
+c:\users\aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\obj\x86\Debug\tripCalculator.Properties.Resources.resources
+c:\users\aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\obj\x86\Debug\tripCalculator.csproj.GenerateResource.Cache
+c:\users\aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\obj\x86\Debug\tripCalculator.exe
+c:\users\aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\obj\x86\Debug\tripCalculator.pdb
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\obj\x86\Debug\tripCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\bin\Debug\tripCalculator.exe.manifest
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\bin\Debug\tripCalculator.application
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\obj\x86\Debug\tripCalculator.exe.manifest
+C:\Users\Aaron\documents\visual studio 2010\Projects\tripCalculator\tripCalculator\obj\x86\Debug\tripCalculator.application
